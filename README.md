@@ -1,2 +1,5 @@
 # vision-ml-essential
-Docker Image for Vision &amp; Machine Learning Release Automation Repository
+
+Vision &amp; Machine Learning Docker Image Release Automation Repository
+
+

@@ -1,0 +1,9 @@
+einops
+timm
+numpy
+opencv-python
+nvidia-ml-py
+pyyaml
+Pillow
+onnx
+onnxruntime-gpu<1.21
