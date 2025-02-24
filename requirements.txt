@@ -7,3 +7,4 @@ pyyaml
 Pillow
 onnx
 onnxruntime-gpu<1.21
+tqdm
