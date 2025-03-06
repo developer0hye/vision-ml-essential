@@ -8,3 +8,6 @@ Pillow
 onnx
 onnxruntime-gpu<1.21
 tqdm
+pandas
+tabulate
+openpyxl
