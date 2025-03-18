@@ -11,3 +11,7 @@ tqdm
 pandas
 tabulate
 openpyxl
+accelerate
+transformers
+datasets
+huggingface_hub[cli]
