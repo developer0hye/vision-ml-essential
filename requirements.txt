@@ -16,3 +16,4 @@ transformers
 datasets
 huggingface_hub[cli]
 diffusers
+sentencepiece
